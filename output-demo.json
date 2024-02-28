@@ -1,0 +1,238 @@
+[
+  {
+    "gizmo": {
+      "id": "g-xtyzCTs7m",
+      "organization_id": "org-p4KAzVYNuaWkNmCnfbtQVRv7",
+      "short_url": "g-xtyzCTs7m-the-man-of-sisu",
+      "author": {
+        "user_id": "user-OAri8MB104ThdFkgxu8myTJ6",
+        "display_name": null,
+        "link_to": null,
+        "is_verified": false,
+        "selected_display": "name",
+        "will_receive_support_emails": null,
+        "display_socials": []
+      },
+      "voice": {
+        "id": "ember"
+      },
+      "workspace_id": null,
+      "model": null,
+      "instructions": null,
+      "settings": null,
+      "display": {
+        "name": "The Man of Sisu",
+        "description": "Finnish therapist, rooted in Stoicism",
+        "welcome_message": "Tervetuloa! Let's explore Stoic wisdom with a Finnish touch.",
+        "prompt_starters": [
+          "How can I balance work and family?",
+          "Strategies for stress?",
+          "Exercise with limited time?",
+          "Stoic advice for parenting?"
+        ],
+        "profile_pic_id": null,
+        "profile_picture_url": "https://files.oaiusercontent.com/file-Lo7TtuGfDhfKzrGoAIITY8Xz?se=2123-10-17T03%3A02%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D65738db2-492a-4553-96cb-00c32794a9e3.png&sig=godXcXuLgYg7Ck6gIf25fNQeMJTfehVSyOa6GSlKu/o%3D",
+        "categories": []
+      },
+      "share_recipient": "link",
+      "created_at": "2023-11-10T02:51:01.258265+00:00",
+      "updated_at": "2023-11-10T19:24:30.835122+00:00",
+      "last_interacted_at": null,
+      "num_interactions": null,
+      "tags": [
+        "public",
+        "reportable"
+      ],
+      "version": null,
+      "live_version": null,
+      "training_disabled": null,
+      "sharing_targets": null,
+      "appeal_info": null,
+      "vanity_metrics": {
+        "num_conversations": null,
+        "num_conversations_str": "60+",
+        "num_pins": 0,
+        "created_ago_str": "3 months ago",
+        "review_stats": {
+          "total": 0,
+          "count": 0
+        }
+      },
+      "workspace_approval_date": null,
+      "workspace_approved": null
+    },
+    "tools": [
+      {
+        "id": "gzm_cnf_RzlSfhIekCglXGEJU5L38fA9~gzm_tool_u3g5Vpz1m73gV8qyAmRnszLQ",
+        "type": "dalle",
+        "settings": null,
+        "metadata": null
+      },
+      {
+        "id": "gzm_cnf_RzlSfhIekCglXGEJU5L38fA9~gzm_tool_JulErTdvcAf9vWLCPmZjjjuy",
+        "type": "browser",
+        "settings": null,
+        "metadata": null
+      },
+      {
+        "id": "gzm_cnf_RzlSfhIekCglXGEJU5L38fA9~gzm_tool_E6mwxpBEBmmyoK9vYM3aJahJ",
+        "type": "python",
+        "settings": null,
+        "metadata": null
+      }
+    ],
+    "files": [],
+    "product_features": {
+      "attachments": {
+        "type": "retrieval",
+        "accepted_mime_types": [
+          "text/x-c++",
+          "text/plain",
+          "text/markdown",
+          "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "text/x-typescript",
+          "text/x-csharp",
+          "application/json",
+          "text/x-script.python",
+          "application/msword",
+          "application/x-latext",
+          "text/x-tex",
+          "text/x-ruby",
+          "text/html",
+          "text/x-java",
+          "text/javascript",
+          "text/x-sh",
+          "application/pdf",
+          "text/x-c",
+          "text/x-php"
+        ],
+        "image_mime_types": [
+          "image/png",
+          "image/gif",
+          "image/webp",
+          "image/jpeg"
+        ],
+        "can_accept_all_mime_types": true
+      }
+    }
+  },
+  {
+    "gizmo": {
+      "id": "g-OMwSMzmc0",
+      "organization_id": "org-GYtEwNCucbfWKTyMz6GGcOPu",
+      "short_url": "g-OMwSMzmc0-chef-bot",
+      "author": {
+        "user_id": "user-XiGiPOyrxRpHQj35cMIutEkq",
+        "display_name": "pixelhome.tech",
+        "link_to": "https://pixelhome.tech",
+        "is_verified": true,
+        "selected_display": "website",
+        "will_receive_support_emails": true,
+        "display_socials": []
+      },
+      "voice": {
+        "id": "ember"
+      },
+      "workspace_id": null,
+      "model": null,
+      "instructions": null,
+      "settings": null,
+      "display": {
+        "name": "Chef Bot",
+        "description": "Asistente de cocina experto",
+        "welcome_message": "¡Hola! ¿En qué puedo ayudarte en la cocina hoy?",
+        "prompt_starters": [
+          "¿Cómo preparo una paella?",
+          "¿Tienes tips para un bizcocho esponjoso?",
+          "¿Qué puedo usar en lugar de mantequilla?",
+          "¿Cómo hago salsa bechamel sin gluten?"
+        ],
+        "profile_pic_id": null,
+        "profile_picture_url": "https://files.oaiusercontent.com/file-tQW7bIflcI0DhTZtT4kDQGy8?se=2123-10-19T20%3A58%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcbeac8bd-a526-42dd-a563-32f661f758b4.png&sig=Oep5oUTdrxo%2BtpH1IgWgTB4xpSG6wTazDcEjBI90/TE%3D",
+        "categories": []
+      },
+      "share_recipient": "marketplace",
+      "created_at": "2023-11-12T20:47:23.677274+00:00",
+      "updated_at": "2023-11-22T07:00:01.847207+00:00",
+      "last_interacted_at": null,
+      "num_interactions": null,
+      "tags": [
+        "public",
+        "reportable"
+      ],
+      "version": null,
+      "live_version": null,
+      "training_disabled": null,
+      "sharing_targets": null,
+      "appeal_info": null,
+      "vanity_metrics": {
+        "num_conversations": null,
+        "num_conversations_str": "30+",
+        "num_pins": 0,
+        "created_ago_str": "3 months ago",
+        "review_stats": {
+          "total": 0,
+          "count": 0
+        }
+      },
+      "workspace_approval_date": null,
+      "workspace_approved": null
+    },
+    "tools": [
+      {
+        "id": "gzm_cnf_CXYpGU1nJbMVyXrVK09eM0rn~gzm_tool_BCLD3kuHyU55bhbXYlwT9jAR",
+        "type": "browser",
+        "settings": null,
+        "metadata": null
+      },
+      {
+        "id": "gzm_cnf_CXYpGU1nJbMVyXrVK09eM0rn~gzm_tool_hZat55APGJolbjdKfFnubKeP",
+        "type": "python",
+        "settings": null,
+        "metadata": null
+      },
+      {
+        "id": "gzm_cnf_CXYpGU1nJbMVyXrVK09eM0rn~gzm_tool_Y9Nj8niJt0TyAo81CvcBsAIe",
+        "type": "dalle",
+        "settings": null,
+        "metadata": null
+      }
+    ],
+    "files": [],
+    "product_features": {
+      "attachments": {
+        "type": "retrieval",
+        "accepted_mime_types": [
+          "text/x-sh",
+          "text/markdown",
+          "application/x-latext",
+          "text/x-tex",
+          "text/plain",
+          "application/msword",
+          "text/html",
+          "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+          "text/x-php",
+          "application/pdf",
+          "application/json",
+          "text/x-c",
+          "text/x-ruby",
+          "text/x-script.python",
+          "text/javascript",
+          "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "text/x-csharp",
+          "text/x-c++",
+          "text/x-typescript",
+          "text/x-java"
+        ],
+        "image_mime_types": [
+          "image/jpeg",
+          "image/webp",
+          "image/gif",
+          "image/png"
+        ],
+        "can_accept_all_mime_types": true
+      }
+    }
+  }
+]

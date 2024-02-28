@@ -1,0 +1,24 @@
+{
+  "name": "gpts-detail-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cg": "node ./src/crawl-google.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12",
+    "crawler": "1.4.0",
+    "dayjs": "1.11.10",
+    "lodash": "4.17.21",
+    "puppeteer": "21.7.0"
+  },
+  "engines" : {
+    "node" : ">=18.0.0"
+  }
+}
